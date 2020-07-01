@@ -7,6 +7,10 @@ h1{
 .namehighlight{
     color: rgb(99, 24, 168);
 }
+h2{
+    font-size: 40px;
+    
+}
 h3{
     color: rgb(32, 97, 97);
 }
@@ -18,3 +22,24 @@ h3{
 }.half-width img{
     width: 100%;
 }
+.link-button{
+    text-decoration-color: rgb(228, 240, 209);
+    background-color: rgb(5, 48, 5) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: ivory;
+    font-weight: 700;
+}
+.dream-area{
+    float: right;
+}
+.my-dance img{
+    width: 20%;
+    margin-left: 9%;
+    padding: 1%;
+}
+footer p{
+    text-align: center;
+}
+
+
